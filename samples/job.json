@@ -1,0 +1,11 @@
+{
+  "title": "C# Backend Developer",
+  "description": "Requires at least three years of C#, ASP.NET Core, SQL Server and Azure. Docker preferred.",
+  "requirements": [
+    { "label": "C#", "anyOf": ["C#"], "weight": 35, "required": true, "minimumYears": 3 },
+    { "label": "ASP.NET Core", "anyOf": ["ASP.NET Core"], "weight": 25, "required": true },
+    { "label": "SQL Server", "anyOf": ["SQL Server"], "weight": 20, "required": true },
+    { "label": "Azure", "anyOf": ["Azure"], "weight": 10, "required": true },
+    { "label": "Docker", "anyOf": ["Docker"], "weight": 10, "required": false }
+  ]
+}

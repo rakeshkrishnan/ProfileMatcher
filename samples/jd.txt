@@ -1,0 +1,1 @@
+We need a developer with at least three years of C# experience, ASP.NET Core, SQL Server and Azure. Docker is preferred.

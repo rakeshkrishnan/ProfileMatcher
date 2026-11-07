@@ -1,0 +1,29 @@
+[
+  {
+    "id": "P001", "name": "Arjun",
+    "skills": [
+      { "skill": "C Sharp", "years": 4, "evidence": "Four years developing services using C Sharp." },
+      { "skill": "ASP NET Core", "evidence": "Built APIs using ASP NET Core." },
+      { "skill": "MSSQL", "evidence": "Built applications backed by MSSQL." },
+      { "skill": "Docker", "evidence": "Deployed services using Docker." }
+    ]
+  },
+  {
+    "id": "P002", "name": "Meera",
+    "skills": [
+      { "skill": "C#", "years": 5, "evidence": "Five years of C# service development." },
+      { "skill": "ASP.NET Core", "evidence": "Built ASP.NET Core APIs." },
+      { "skill": "SQL Server", "evidence": "Designed SQL Server databases." },
+      { "skill": "Microsoft Azure", "evidence": "Deployed production services to Microsoft Azure." }
+    ]
+  },
+  {
+    "id": "P003", "name": "Ravi",
+    "skills": [
+      { "skill": "C#", "years": 2, "evidence": "Two years of C# development." },
+      { "skill": "ASP.NET Core", "evidence": "Built ASP.NET Core services." },
+      { "skill": "SQL Server", "evidence": "Used SQL Server in application projects." },
+      { "skill": "Python", "years": 3, "evidence": "Three years writing Python automation." }
+    ]
+  }
+]
